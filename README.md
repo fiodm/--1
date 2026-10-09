@@ -1,4 +1,4 @@
-<img width="492" height="143" alt="Снимок экрана 2026-10-09 в 20 02 18" src="https://github.com/user-attachments/assets/69f7a7f9-8f7e-4588-aff9-4d910b64066c" />
+
 ЛАБОРАТОРНА РОБОТА №1
 Тема: Збір вимог та розробка схеми ER
 Мета роботи:
